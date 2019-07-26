@@ -1,5 +1,5 @@
 {
-  "name": "vue-router-parent-redirect",
+  "name": "vue-router-issue-2724",
   "version": "0.1.0",
   "private": true,
   "scripts": {
